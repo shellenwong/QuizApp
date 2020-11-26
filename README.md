@@ -1,4 +1,4 @@
-# uczlx69-quiz
+# Quiz APP
 # Quiz Answering App
 
 
